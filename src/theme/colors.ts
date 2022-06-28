@@ -1,0 +1,43 @@
+/**
+ * @description define all colors value used in project
+ */
+import {IColors} from 'types';
+
+export const Colors: IColors = {
+  main: '#44C551',
+  dark: '#000000',
+  white: '#FFFFFF',
+  main_light: '#98eda0',
+  primary: '#1E1E1E',
+  background: '#2B2B2B',
+  text: '#4E4E4E',
+  border: '#949494',
+  card: '#575454',
+  error: '#FF2300',
+  warning: '#FFD500',
+  info: '#FF9900',
+  status: '#04B404',
+  whisper: '#EEEEEE',
+  snow: '#FBFBFB',
+  button: '#00AAEF',
+  link: '#1197EF',
+  second_link: '#1A92E0',
+  contain: '#f4f4f4',
+  hint: '#707070',
+  line: '#E2E2E2',
+  underline: '#4E4E4E',
+  blue_primary: '#00AAEF',
+  red_primary: '#FC6161',
+  green_primary: '#00C4AD',
+  yellow_primary: '#FFCE00',
+  blue_secondary: '#3FBFF3',
+  arrow_right: '#999999',
+  input_field: '#ACACAC',
+  transparent: 'transparent',
+  colorFolder1: '#E0FFC1',
+  colorFolder2: '#B8DFF5',
+  colorFolder3: '#FFE0B7',
+  colorFolder4: '#FFBEFF',
+  colorFolder5: '#FFEFB4',
+  colorFolder6: '#FFC1B9',
+};
