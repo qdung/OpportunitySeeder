@@ -11,10 +11,6 @@ export const styles = StyleSheet.create({
     color: 'white',
     fontSize: 25,
   },
-  circle: {
-    // marginTop: 100,
-    // zIndex: 5,
-  },
   loginForm: {
     marginTop: 50,
     flexDirection: 'row',
@@ -74,5 +70,15 @@ export const styles = StyleSheet.create({
   txt: {
     fontSize: 18,
     // fontFamily: 'Poppins-Regular',
+  },
+  googleBtn: {
+    position: 'absolute',
+    bottom: 0,
+    height: 40,
+    paddingHorizontal: 20,
+    backgroundColor: Colors.main_light,
+    borderRadius: 50,
+    justifyContent: 'center',
+    alignItems: 'center',
   },
 });

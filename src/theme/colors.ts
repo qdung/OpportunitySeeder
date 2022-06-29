@@ -1,7 +1,8 @@
 /**
  * @description define all colors value used in project
  */
-import {IColors} from 'types';
+
+import {IColors} from 'types/color';
 
 export const Colors: IColors = {
   main: '#44C551',
@@ -40,4 +41,8 @@ export const Colors: IColors = {
   colorFolder4: '#FFBEFF',
   colorFolder5: '#FFEFB4',
   colorFolder6: '#FFC1B9',
+  colorTag2: '',
+  colorTag5: '',
+  colorTag6: '',
+  star: '',
 };
